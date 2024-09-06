@@ -1,0 +1,76 @@
+
+============================================
+
+Testing tile_size=16 with matrix_size=3000
+
+Esecuzione con tile_size=16 - Matrix size 3000 - Esecuzione 1
+Timestamp: Wed 26 Jun 13:31:59 CEST 2024
+Dati copiati correttamente.
+blockSize: (16, 16, 1)
+Total number of blocks (must be less or equal than 1024): 256
+Time elapsed: 652.184 milliseconds.
+
+Esecuzione con tile_size=16 - Matrix size 3000 - Esecuzione 2
+Timestamp: Wed 26 Jun 13:32:00 CEST 2024
+Dati copiati correttamente.
+blockSize: (16, 16, 1)
+Total number of blocks (must be less or equal than 1024): 256
+Time elapsed: 421.716 milliseconds.
+
+Esecuzione con tile_size=16 - Matrix size 3000 - Esecuzione 3
+Timestamp: Wed 26 Jun 13:32:01 CEST 2024
+Dati copiati correttamente.
+blockSize: (16, 16, 1)
+Total number of blocks (must be less or equal than 1024): 256
+Time elapsed: 422.038 milliseconds.
+
+Esecuzione con tile_size=16 - Matrix size 3000 - Esecuzione 4
+Timestamp: Wed 26 Jun 13:32:01 CEST 2024
+Dati copiati correttamente.
+blockSize: (16, 16, 1)
+Total number of blocks (must be less or equal than 1024): 256
+Time elapsed: 421.391 milliseconds.
+
+Esecuzione con tile_size=16 - Matrix size 3000 - Esecuzione 5
+Timestamp: Wed 26 Jun 13:32:02 CEST 2024
+Dati copiati correttamente.
+blockSize: (16, 16, 1)
+Total number of blocks (must be less or equal than 1024): 256
+Time elapsed: 421.561 milliseconds.
+
+Esecuzione con tile_size=16 - Matrix size 3000 - Esecuzione 6
+Timestamp: Wed 26 Jun 13:32:03 CEST 2024
+Dati copiati correttamente.
+blockSize: (16, 16, 1)
+Total number of blocks (must be less or equal than 1024): 256
+Time elapsed: 421.872 milliseconds.
+
+Esecuzione con tile_size=16 - Matrix size 3000 - Esecuzione 7
+Timestamp: Wed 26 Jun 13:32:03 CEST 2024
+Dati copiati correttamente.
+blockSize: (16, 16, 1)
+Total number of blocks (must be less or equal than 1024): 256
+Time elapsed: 421.401 milliseconds.
+
+Esecuzione con tile_size=16 - Matrix size 3000 - Esecuzione 8
+Timestamp: Wed 26 Jun 13:32:04 CEST 2024
+Dati copiati correttamente.
+blockSize: (16, 16, 1)
+Total number of blocks (must be less or equal than 1024): 256
+Time elapsed: 421.529 milliseconds.
+
+Esecuzione con tile_size=16 - Matrix size 3000 - Esecuzione 9
+Timestamp: Wed 26 Jun 13:32:05 CEST 2024
+Dati copiati correttamente.
+blockSize: (16, 16, 1)
+Total number of blocks (must be less or equal than 1024): 256
+Time elapsed: 421.872 milliseconds.
+
+Esecuzione con tile_size=16 - Matrix size 3000 - Esecuzione 10
+Timestamp: Wed 26 Jun 13:32:06 CEST 2024
+Dati copiati correttamente.
+blockSize: (16, 16, 1)
+Total number of blocks (must be less or equal than 1024): 256
+Time elapsed: 421.401 milliseconds.
+
+Esecuzioni completate. I risultati sono stati salvati in risultati_use_shared_memory_16_3000.txt.

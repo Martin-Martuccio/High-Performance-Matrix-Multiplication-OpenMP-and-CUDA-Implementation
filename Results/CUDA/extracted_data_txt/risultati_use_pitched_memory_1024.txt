@@ -1,0 +1,1804 @@
+
+============================================
+
+Configurazione non valida: (1, 1). Saltando.
+Motivo: Numero totale di blocchi (1048576) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1, 2). Saltando.
+Motivo: Numero totale di blocchi (524288) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1, 4). Saltando.
+Motivo: Numero totale di blocchi (262144) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1, 8). Saltando.
+Motivo: Numero totale di blocchi (131072) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1, 16). Saltando.
+Motivo: Numero totale di blocchi (65536) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1, 32). Saltando.
+Motivo: Numero totale di blocchi (32768) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1, 64). Saltando.
+Motivo: Numero totale di blocchi (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1, 128). Saltando.
+Motivo: Numero totale di blocchi (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1, 256). Saltando.
+Motivo: Numero totale di blocchi (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1, 512). Saltando.
+Motivo: Numero totale di blocchi (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione valida: (1, 1024). Eseguendo 10 esecuzioni.
+Esecuzione con threadSize (1, 1024) - Esecuzione 1
+Timestamp: Wed 26 Jun 12:06:05 CEST 2024
+Dati copiati correttamente.
+threadSize: (1, 1024, 1)
+blockSize: (1024, 1, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 80.3514 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1, 1024) - Esecuzione 2
+Timestamp: Wed 26 Jun 12:06:16 CEST 2024
+Dati copiati correttamente.
+threadSize: (1, 1024, 1)
+blockSize: (1024, 1, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 80.3456 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1, 1024) - Esecuzione 3
+Timestamp: Wed 26 Jun 12:06:27 CEST 2024
+Dati copiati correttamente.
+threadSize: (1, 1024, 1)
+blockSize: (1024, 1, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 80.3487 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1, 1024) - Esecuzione 4
+Timestamp: Wed 26 Jun 12:06:37 CEST 2024
+Dati copiati correttamente.
+threadSize: (1, 1024, 1)
+blockSize: (1024, 1, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 80.3559 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1, 1024) - Esecuzione 5
+Timestamp: Wed 26 Jun 12:06:48 CEST 2024
+Dati copiati correttamente.
+threadSize: (1, 1024, 1)
+blockSize: (1024, 1, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 80.3484 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1, 1024) - Esecuzione 6
+Timestamp: Wed 26 Jun 12:06:59 CEST 2024
+Dati copiati correttamente.
+threadSize: (1, 1024, 1)
+blockSize: (1024, 1, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 80.3527 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1, 1024) - Esecuzione 7
+Timestamp: Wed 26 Jun 12:07:10 CEST 2024
+Dati copiati correttamente.
+threadSize: (1, 1024, 1)
+blockSize: (1024, 1, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 80.3535 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1, 1024) - Esecuzione 8
+Timestamp: Wed 26 Jun 12:07:20 CEST 2024
+Dati copiati correttamente.
+threadSize: (1, 1024, 1)
+blockSize: (1024, 1, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 80.3492 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1, 1024) - Esecuzione 9
+Timestamp: Wed 26 Jun 12:07:31 CEST 2024
+Dati copiati correttamente.
+threadSize: (1, 1024, 1)
+blockSize: (1024, 1, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 80.3514 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1, 1024) - Esecuzione 10
+Timestamp: Wed 26 Jun 12:07:42 CEST 2024
+Dati copiati correttamente.
+threadSize: (1, 1024, 1)
+blockSize: (1024, 1, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 80.3516 milliseconds.
+Matrices are equal.
+
+============================================
+
+Configurazione non valida: (2, 1). Saltando.
+Motivo: Numero totale di blocchi (524288) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (2, 2). Saltando.
+Motivo: Numero totale di blocchi (262144) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (2, 4). Saltando.
+Motivo: Numero totale di blocchi (131072) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (2, 8). Saltando.
+Motivo: Numero totale di blocchi (65536) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (2, 16). Saltando.
+Motivo: Numero totale di blocchi (32768) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (2, 32). Saltando.
+Motivo: Numero totale di blocchi (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (2, 64). Saltando.
+Motivo: Numero totale di blocchi (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (2, 128). Saltando.
+Motivo: Numero totale di blocchi (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (2, 256). Saltando.
+Motivo: Numero totale di blocchi (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione valida: (2, 512). Eseguendo 10 esecuzioni.
+Esecuzione con threadSize (2, 512) - Esecuzione 1
+Timestamp: Wed 26 Jun 12:07:52 CEST 2024
+Dati copiati correttamente.
+threadSize: (2, 512, 1)
+blockSize: (512, 2, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 60.7433 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (2, 512) - Esecuzione 2
+Timestamp: Wed 26 Jun 12:08:03 CEST 2024
+Dati copiati correttamente.
+threadSize: (2, 512, 1)
+blockSize: (512, 2, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 60.7158 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (2, 512) - Esecuzione 3
+Timestamp: Wed 26 Jun 12:08:14 CEST 2024
+Dati copiati correttamente.
+threadSize: (2, 512, 1)
+blockSize: (512, 2, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 60.7133 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (2, 512) - Esecuzione 4
+Timestamp: Wed 26 Jun 12:08:24 CEST 2024
+Dati copiati correttamente.
+threadSize: (2, 512, 1)
+blockSize: (512, 2, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 60.699 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (2, 512) - Esecuzione 5
+Timestamp: Wed 26 Jun 12:08:35 CEST 2024
+Dati copiati correttamente.
+threadSize: (2, 512, 1)
+blockSize: (512, 2, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 60.7176 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (2, 512) - Esecuzione 6
+Timestamp: Wed 26 Jun 12:08:45 CEST 2024
+Dati copiati correttamente.
+threadSize: (2, 512, 1)
+blockSize: (512, 2, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 60.7385 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (2, 512) - Esecuzione 7
+Timestamp: Wed 26 Jun 12:08:56 CEST 2024
+Dati copiati correttamente.
+threadSize: (2, 512, 1)
+blockSize: (512, 2, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 60.733 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (2, 512) - Esecuzione 8
+Timestamp: Wed 26 Jun 12:09:07 CEST 2024
+Dati copiati correttamente.
+threadSize: (2, 512, 1)
+blockSize: (512, 2, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 60.7204 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (2, 512) - Esecuzione 9
+Timestamp: Wed 26 Jun 12:09:18 CEST 2024
+Dati copiati correttamente.
+threadSize: (2, 512, 1)
+blockSize: (512, 2, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 60.7279 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (2, 512) - Esecuzione 10
+Timestamp: Wed 26 Jun 12:09:28 CEST 2024
+Dati copiati correttamente.
+threadSize: (2, 512, 1)
+blockSize: (512, 2, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 60.7255 milliseconds.
+Matrices are equal.
+
+============================================
+
+Configurazione non valida: (2, 1024). Saltando.
+Motivo: Numero totale di threads (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (4, 1). Saltando.
+Motivo: Numero totale di blocchi (262144) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (4, 2). Saltando.
+Motivo: Numero totale di blocchi (131072) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (4, 4). Saltando.
+Motivo: Numero totale di blocchi (65536) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (4, 8). Saltando.
+Motivo: Numero totale di blocchi (32768) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (4, 16). Saltando.
+Motivo: Numero totale di blocchi (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (4, 32). Saltando.
+Motivo: Numero totale di blocchi (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (4, 64). Saltando.
+Motivo: Numero totale di blocchi (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (4, 128). Saltando.
+Motivo: Numero totale di blocchi (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione valida: (4, 256). Eseguendo 10 esecuzioni.
+Esecuzione con threadSize (4, 256) - Esecuzione 1
+Timestamp: Wed 26 Jun 12:09:39 CEST 2024
+Dati copiati correttamente.
+threadSize: (4, 256, 1)
+blockSize: (256, 4, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2593 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (4, 256) - Esecuzione 2
+Timestamp: Wed 26 Jun 12:09:49 CEST 2024
+Dati copiati correttamente.
+threadSize: (4, 256, 1)
+blockSize: (256, 4, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2457 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (4, 256) - Esecuzione 3
+Timestamp: Wed 26 Jun 12:10:00 CEST 2024
+Dati copiati correttamente.
+threadSize: (4, 256, 1)
+blockSize: (256, 4, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2703 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (4, 256) - Esecuzione 4
+Timestamp: Wed 26 Jun 12:10:11 CEST 2024
+Dati copiati correttamente.
+threadSize: (4, 256, 1)
+blockSize: (256, 4, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2711 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (4, 256) - Esecuzione 5
+Timestamp: Wed 26 Jun 12:10:21 CEST 2024
+Dati copiati correttamente.
+threadSize: (4, 256, 1)
+blockSize: (256, 4, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2824 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (4, 256) - Esecuzione 6
+Timestamp: Wed 26 Jun 12:10:32 CEST 2024
+Dati copiati correttamente.
+threadSize: (4, 256, 1)
+blockSize: (256, 4, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2748 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (4, 256) - Esecuzione 7
+Timestamp: Wed 26 Jun 12:10:43 CEST 2024
+Dati copiati correttamente.
+threadSize: (4, 256, 1)
+blockSize: (256, 4, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.274 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (4, 256) - Esecuzione 8
+Timestamp: Wed 26 Jun 12:10:53 CEST 2024
+Dati copiati correttamente.
+threadSize: (4, 256, 1)
+blockSize: (256, 4, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2822 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (4, 256) - Esecuzione 9
+Timestamp: Wed 26 Jun 12:11:04 CEST 2024
+Dati copiati correttamente.
+threadSize: (4, 256, 1)
+blockSize: (256, 4, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2624 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (4, 256) - Esecuzione 10
+Timestamp: Wed 26 Jun 12:11:15 CEST 2024
+Dati copiati correttamente.
+threadSize: (4, 256, 1)
+blockSize: (256, 4, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2867 milliseconds.
+Matrices are equal.
+
+============================================
+
+Configurazione non valida: (4, 512). Saltando.
+Motivo: Numero totale di threads (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (4, 1024). Saltando.
+Motivo: Numero totale di threads (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (8, 1). Saltando.
+Motivo: Numero totale di blocchi (131072) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (8, 2). Saltando.
+Motivo: Numero totale di blocchi (65536) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (8, 4). Saltando.
+Motivo: Numero totale di blocchi (32768) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (8, 8). Saltando.
+Motivo: Numero totale di blocchi (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (8, 16). Saltando.
+Motivo: Numero totale di blocchi (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (8, 32). Saltando.
+Motivo: Numero totale di blocchi (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (8, 64). Saltando.
+Motivo: Numero totale di blocchi (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione valida: (8, 128). Eseguendo 10 esecuzioni.
+Esecuzione con threadSize (8, 128) - Esecuzione 1
+Timestamp: Wed 26 Jun 12:11:25 CEST 2024
+Dati copiati correttamente.
+threadSize: (8, 128, 1)
+blockSize: (128, 8, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2718 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (8, 128) - Esecuzione 2
+Timestamp: Wed 26 Jun 12:11:36 CEST 2024
+Dati copiati correttamente.
+threadSize: (8, 128, 1)
+blockSize: (128, 8, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2036 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (8, 128) - Esecuzione 3
+Timestamp: Wed 26 Jun 12:11:46 CEST 2024
+Dati copiati correttamente.
+threadSize: (8, 128, 1)
+blockSize: (128, 8, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2846 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (8, 128) - Esecuzione 4
+Timestamp: Wed 26 Jun 12:11:57 CEST 2024
+Dati copiati correttamente.
+threadSize: (8, 128, 1)
+blockSize: (128, 8, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.169 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (8, 128) - Esecuzione 5
+Timestamp: Wed 26 Jun 12:12:08 CEST 2024
+Dati copiati correttamente.
+threadSize: (8, 128, 1)
+blockSize: (128, 8, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2099 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (8, 128) - Esecuzione 6
+Timestamp: Wed 26 Jun 12:12:18 CEST 2024
+Dati copiati correttamente.
+threadSize: (8, 128, 1)
+blockSize: (128, 8, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.4066 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (8, 128) - Esecuzione 7
+Timestamp: Wed 26 Jun 12:12:29 CEST 2024
+Dati copiati correttamente.
+threadSize: (8, 128, 1)
+blockSize: (128, 8, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.4869 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (8, 128) - Esecuzione 8
+Timestamp: Wed 26 Jun 12:12:40 CEST 2024
+Dati copiati correttamente.
+threadSize: (8, 128, 1)
+blockSize: (128, 8, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2973 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (8, 128) - Esecuzione 9
+Timestamp: Wed 26 Jun 12:12:50 CEST 2024
+Dati copiati correttamente.
+threadSize: (8, 128, 1)
+blockSize: (128, 8, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.2158 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (8, 128) - Esecuzione 10
+Timestamp: Wed 26 Jun 12:13:01 CEST 2024
+Dati copiati correttamente.
+threadSize: (8, 128, 1)
+blockSize: (128, 8, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.201 milliseconds.
+Matrices are equal.
+
+============================================
+
+Configurazione non valida: (8, 256). Saltando.
+Motivo: Numero totale di threads (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (8, 512). Saltando.
+Motivo: Numero totale di threads (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (8, 1024). Saltando.
+Motivo: Numero totale di threads (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (16, 1). Saltando.
+Motivo: Numero totale di blocchi (65536) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (16, 2). Saltando.
+Motivo: Numero totale di blocchi (32768) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (16, 4). Saltando.
+Motivo: Numero totale di blocchi (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (16, 8). Saltando.
+Motivo: Numero totale di blocchi (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (16, 16). Saltando.
+Motivo: Numero totale di blocchi (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (16, 32). Saltando.
+Motivo: Numero totale di blocchi (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione valida: (16, 64). Eseguendo 10 esecuzioni.
+Esecuzione con threadSize (16, 64) - Esecuzione 1
+Timestamp: Wed 26 Jun 12:13:11 CEST 2024
+Dati copiati correttamente.
+threadSize: (16, 64, 1)
+blockSize: (64, 16, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.6819 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (16, 64) - Esecuzione 2
+Timestamp: Wed 26 Jun 12:13:22 CEST 2024
+Dati copiati correttamente.
+threadSize: (16, 64, 1)
+blockSize: (64, 16, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.8967 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (16, 64) - Esecuzione 3
+Timestamp: Wed 26 Jun 12:13:33 CEST 2024
+Dati copiati correttamente.
+threadSize: (16, 64, 1)
+blockSize: (64, 16, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.687 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (16, 64) - Esecuzione 4
+Timestamp: Wed 26 Jun 12:13:43 CEST 2024
+Dati copiati correttamente.
+threadSize: (16, 64, 1)
+blockSize: (64, 16, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.6592 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (16, 64) - Esecuzione 5
+Timestamp: Wed 26 Jun 12:13:54 CEST 2024
+Dati copiati correttamente.
+threadSize: (16, 64, 1)
+blockSize: (64, 16, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.6891 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (16, 64) - Esecuzione 6
+Timestamp: Wed 26 Jun 12:14:05 CEST 2024
+Dati copiati correttamente.
+threadSize: (16, 64, 1)
+blockSize: (64, 16, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.6844 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (16, 64) - Esecuzione 7
+Timestamp: Wed 26 Jun 12:14:15 CEST 2024
+Dati copiati correttamente.
+threadSize: (16, 64, 1)
+blockSize: (64, 16, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.6647 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (16, 64) - Esecuzione 8
+Timestamp: Wed 26 Jun 12:14:26 CEST 2024
+Dati copiati correttamente.
+threadSize: (16, 64, 1)
+blockSize: (64, 16, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.7645 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (16, 64) - Esecuzione 9
+Timestamp: Wed 26 Jun 12:14:37 CEST 2024
+Dati copiati correttamente.
+threadSize: (16, 64, 1)
+blockSize: (64, 16, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.6631 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (16, 64) - Esecuzione 10
+Timestamp: Wed 26 Jun 12:14:47 CEST 2024
+Dati copiati correttamente.
+threadSize: (16, 64, 1)
+blockSize: (64, 16, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.6741 milliseconds.
+Matrices are equal.
+
+============================================
+
+Configurazione non valida: (16, 128). Saltando.
+Motivo: Numero totale di threads (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (16, 256). Saltando.
+Motivo: Numero totale di threads (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (16, 512). Saltando.
+Motivo: Numero totale di threads (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (16, 1024). Saltando.
+Motivo: Numero totale di threads (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (32, 1). Saltando.
+Motivo: Numero totale di blocchi (32768) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (32, 2). Saltando.
+Motivo: Numero totale di blocchi (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (32, 4). Saltando.
+Motivo: Numero totale di blocchi (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (32, 8). Saltando.
+Motivo: Numero totale di blocchi (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (32, 16). Saltando.
+Motivo: Numero totale di blocchi (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione valida: (32, 32). Eseguendo 10 esecuzioni.
+Esecuzione con threadSize (32, 32) - Esecuzione 1
+Timestamp: Wed 26 Jun 12:14:58 CEST 2024
+Dati copiati correttamente.
+threadSize: (32, 32, 1)
+blockSize: (32, 32, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.9508 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (32, 32) - Esecuzione 2
+Timestamp: Wed 26 Jun 12:15:08 CEST 2024
+Dati copiati correttamente.
+threadSize: (32, 32, 1)
+blockSize: (32, 32, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.9501 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (32, 32) - Esecuzione 3
+Timestamp: Wed 26 Jun 12:15:19 CEST 2024
+Dati copiati correttamente.
+threadSize: (32, 32, 1)
+blockSize: (32, 32, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.9354 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (32, 32) - Esecuzione 4
+Timestamp: Wed 26 Jun 12:15:30 CEST 2024
+Dati copiati correttamente.
+threadSize: (32, 32, 1)
+blockSize: (32, 32, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.9412 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (32, 32) - Esecuzione 5
+Timestamp: Wed 26 Jun 12:15:40 CEST 2024
+Dati copiati correttamente.
+threadSize: (32, 32, 1)
+blockSize: (32, 32, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.9396 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (32, 32) - Esecuzione 6
+Timestamp: Wed 26 Jun 12:15:51 CEST 2024
+Dati copiati correttamente.
+threadSize: (32, 32, 1)
+blockSize: (32, 32, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.9237 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (32, 32) - Esecuzione 7
+Timestamp: Wed 26 Jun 12:16:02 CEST 2024
+Dati copiati correttamente.
+threadSize: (32, 32, 1)
+blockSize: (32, 32, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.9152 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (32, 32) - Esecuzione 8
+Timestamp: Wed 26 Jun 12:16:13 CEST 2024
+Dati copiati correttamente.
+threadSize: (32, 32, 1)
+blockSize: (32, 32, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.9583 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (32, 32) - Esecuzione 9
+Timestamp: Wed 26 Jun 12:16:23 CEST 2024
+Dati copiati correttamente.
+threadSize: (32, 32, 1)
+blockSize: (32, 32, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.9377 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (32, 32) - Esecuzione 10
+Timestamp: Wed 26 Jun 12:16:34 CEST 2024
+Dati copiati correttamente.
+threadSize: (32, 32, 1)
+blockSize: (32, 32, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 61.9331 milliseconds.
+Matrices are equal.
+
+============================================
+
+Configurazione non valida: (32, 64). Saltando.
+Motivo: Numero totale di threads (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (32, 128). Saltando.
+Motivo: Numero totale di threads (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (32, 256). Saltando.
+Motivo: Numero totale di threads (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (32, 512). Saltando.
+Motivo: Numero totale di threads (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (32, 1024). Saltando.
+Motivo: Numero totale di threads (32768) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (64, 1). Saltando.
+Motivo: Numero totale di blocchi (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (64, 2). Saltando.
+Motivo: Numero totale di blocchi (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (64, 4). Saltando.
+Motivo: Numero totale di blocchi (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (64, 8). Saltando.
+Motivo: Numero totale di blocchi (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione valida: (64, 16). Eseguendo 10 esecuzioni.
+Esecuzione con threadSize (64, 16) - Esecuzione 1
+Timestamp: Wed 26 Jun 12:16:45 CEST 2024
+Dati copiati correttamente.
+threadSize: (64, 16, 1)
+blockSize: (16, 64, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 81.739 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (64, 16) - Esecuzione 2
+Timestamp: Wed 26 Jun 12:16:55 CEST 2024
+Dati copiati correttamente.
+threadSize: (64, 16, 1)
+blockSize: (16, 64, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 81.7594 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (64, 16) - Esecuzione 3
+Timestamp: Wed 26 Jun 12:17:06 CEST 2024
+Dati copiati correttamente.
+threadSize: (64, 16, 1)
+blockSize: (16, 64, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 81.7985 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (64, 16) - Esecuzione 4
+Timestamp: Wed 26 Jun 12:17:17 CEST 2024
+Dati copiati correttamente.
+threadSize: (64, 16, 1)
+blockSize: (16, 64, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 81.7615 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (64, 16) - Esecuzione 5
+Timestamp: Wed 26 Jun 12:17:27 CEST 2024
+Dati copiati correttamente.
+threadSize: (64, 16, 1)
+blockSize: (16, 64, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 81.7549 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (64, 16) - Esecuzione 6
+Timestamp: Wed 26 Jun 12:17:38 CEST 2024
+Dati copiati correttamente.
+threadSize: (64, 16, 1)
+blockSize: (16, 64, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 81.7551 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (64, 16) - Esecuzione 7
+Timestamp: Wed 26 Jun 12:17:49 CEST 2024
+Dati copiati correttamente.
+threadSize: (64, 16, 1)
+blockSize: (16, 64, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 81.7689 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (64, 16) - Esecuzione 8
+Timestamp: Wed 26 Jun 12:17:59 CEST 2024
+Dati copiati correttamente.
+threadSize: (64, 16, 1)
+blockSize: (16, 64, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 81.7689 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (64, 16) - Esecuzione 9
+Timestamp: Wed 26 Jun 12:18:10 CEST 2024
+Dati copiati correttamente.
+threadSize: (64, 16, 1)
+blockSize: (16, 64, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 81.7648 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (64, 16) - Esecuzione 10
+Timestamp: Wed 26 Jun 12:18:20 CEST 2024
+Dati copiati correttamente.
+threadSize: (64, 16, 1)
+blockSize: (16, 64, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 81.7594 milliseconds.
+Matrices are equal.
+
+============================================
+
+Configurazione non valida: (64, 32). Saltando.
+Motivo: Numero totale di threads (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (64, 64). Saltando.
+Motivo: Numero totale di threads (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (64, 128). Saltando.
+Motivo: Numero totale di threads (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (64, 256). Saltando.
+Motivo: Numero totale di threads (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (64, 512). Saltando.
+Motivo: Numero totale di threads (32768) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (64, 1024). Saltando.
+Motivo: Numero totale di threads (65536) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (128, 1). Saltando.
+Motivo: Numero totale di blocchi (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (128, 2). Saltando.
+Motivo: Numero totale di blocchi (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (128, 4). Saltando.
+Motivo: Numero totale di blocchi (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione valida: (128, 8). Eseguendo 10 esecuzioni.
+Esecuzione con threadSize (128, 8) - Esecuzione 1
+Timestamp: Wed 26 Jun 12:18:31 CEST 2024
+Dati copiati correttamente.
+threadSize: (128, 8, 1)
+blockSize: (8, 128, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 133.866 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (128, 8) - Esecuzione 2
+Timestamp: Wed 26 Jun 12:18:42 CEST 2024
+Dati copiati correttamente.
+threadSize: (128, 8, 1)
+blockSize: (8, 128, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 128.909 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (128, 8) - Esecuzione 3
+Timestamp: Wed 26 Jun 12:18:54 CEST 2024
+Dati copiati correttamente.
+threadSize: (128, 8, 1)
+blockSize: (8, 128, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 126.311 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (128, 8) - Esecuzione 4
+Timestamp: Wed 26 Jun 12:19:05 CEST 2024
+Dati copiati correttamente.
+threadSize: (128, 8, 1)
+blockSize: (8, 128, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 133.863 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (128, 8) - Esecuzione 5
+Timestamp: Wed 26 Jun 12:19:16 CEST 2024
+Dati copiati correttamente.
+threadSize: (128, 8, 1)
+blockSize: (8, 128, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 133.867 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (128, 8) - Esecuzione 6
+Timestamp: Wed 26 Jun 12:19:26 CEST 2024
+Dati copiati correttamente.
+threadSize: (128, 8, 1)
+blockSize: (8, 128, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 127.64 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (128, 8) - Esecuzione 7
+Timestamp: Wed 26 Jun 12:19:37 CEST 2024
+Dati copiati correttamente.
+threadSize: (128, 8, 1)
+blockSize: (8, 128, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 133.862 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (128, 8) - Esecuzione 8
+Timestamp: Wed 26 Jun 12:19:48 CEST 2024
+Dati copiati correttamente.
+threadSize: (128, 8, 1)
+blockSize: (8, 128, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 133.858 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (128, 8) - Esecuzione 9
+Timestamp: Wed 26 Jun 12:19:59 CEST 2024
+Dati copiati correttamente.
+threadSize: (128, 8, 1)
+blockSize: (8, 128, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 126.125 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (128, 8) - Esecuzione 10
+Timestamp: Wed 26 Jun 12:20:09 CEST 2024
+Dati copiati correttamente.
+threadSize: (128, 8, 1)
+blockSize: (8, 128, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 127.723 milliseconds.
+Matrices are equal.
+
+============================================
+
+Configurazione non valida: (128, 16). Saltando.
+Motivo: Numero totale di threads (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (128, 32). Saltando.
+Motivo: Numero totale di threads (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (128, 64). Saltando.
+Motivo: Numero totale di threads (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (128, 128). Saltando.
+Motivo: Numero totale di threads (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (128, 256). Saltando.
+Motivo: Numero totale di threads (32768) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (128, 512). Saltando.
+Motivo: Numero totale di threads (65536) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (128, 1024). Saltando.
+Motivo: Numero totale di threads (131072) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (256, 1). Saltando.
+Motivo: Numero totale di blocchi (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (256, 2). Saltando.
+Motivo: Numero totale di blocchi (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione valida: (256, 4). Eseguendo 10 esecuzioni.
+Esecuzione con threadSize (256, 4) - Esecuzione 1
+Timestamp: Wed 26 Jun 12:20:20 CEST 2024
+Dati copiati correttamente.
+threadSize: (256, 4, 1)
+blockSize: (4, 256, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 235.161 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (256, 4) - Esecuzione 2
+Timestamp: Wed 26 Jun 12:20:31 CEST 2024
+Dati copiati correttamente.
+threadSize: (256, 4, 1)
+blockSize: (4, 256, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 203.376 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (256, 4) - Esecuzione 3
+Timestamp: Wed 26 Jun 12:20:42 CEST 2024
+Dati copiati correttamente.
+threadSize: (256, 4, 1)
+blockSize: (4, 256, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 240.54 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (256, 4) - Esecuzione 4
+Timestamp: Wed 26 Jun 12:20:52 CEST 2024
+Dati copiati correttamente.
+threadSize: (256, 4, 1)
+blockSize: (4, 256, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 195.791 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (256, 4) - Esecuzione 5
+Timestamp: Wed 26 Jun 12:21:03 CEST 2024
+Dati copiati correttamente.
+threadSize: (256, 4, 1)
+blockSize: (4, 256, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 240.535 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (256, 4) - Esecuzione 6
+Timestamp: Wed 26 Jun 12:21:14 CEST 2024
+Dati copiati correttamente.
+threadSize: (256, 4, 1)
+blockSize: (4, 256, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 206.786 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (256, 4) - Esecuzione 7
+Timestamp: Wed 26 Jun 12:21:25 CEST 2024
+Dati copiati correttamente.
+threadSize: (256, 4, 1)
+blockSize: (4, 256, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 220.873 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (256, 4) - Esecuzione 8
+Timestamp: Wed 26 Jun 12:21:36 CEST 2024
+Dati copiati correttamente.
+threadSize: (256, 4, 1)
+blockSize: (4, 256, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 212.303 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (256, 4) - Esecuzione 9
+Timestamp: Wed 26 Jun 12:21:46 CEST 2024
+Dati copiati correttamente.
+threadSize: (256, 4, 1)
+blockSize: (4, 256, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 201.122 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (256, 4) - Esecuzione 10
+Timestamp: Wed 26 Jun 12:21:57 CEST 2024
+Dati copiati correttamente.
+threadSize: (256, 4, 1)
+blockSize: (4, 256, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 240.54 milliseconds.
+Matrices are equal.
+
+============================================
+
+Configurazione non valida: (256, 8). Saltando.
+Motivo: Numero totale di threads (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (256, 16). Saltando.
+Motivo: Numero totale di threads (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (256, 32). Saltando.
+Motivo: Numero totale di threads (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (256, 64). Saltando.
+Motivo: Numero totale di threads (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (256, 128). Saltando.
+Motivo: Numero totale di threads (32768) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (256, 256). Saltando.
+Motivo: Numero totale di threads (65536) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (256, 512). Saltando.
+Motivo: Numero totale di threads (131072) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (256, 1024). Saltando.
+Motivo: Numero totale di threads (262144) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (512, 1). Saltando.
+Motivo: Numero totale di blocchi (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione valida: (512, 2). Eseguendo 10 esecuzioni.
+Esecuzione con threadSize (512, 2) - Esecuzione 1
+Timestamp: Wed 26 Jun 12:22:08 CEST 2024
+Dati copiati correttamente.
+threadSize: (512, 2, 1)
+blockSize: (2, 512, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 325.809 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (512, 2) - Esecuzione 2
+Timestamp: Wed 26 Jun 12:22:19 CEST 2024
+Dati copiati correttamente.
+threadSize: (512, 2, 1)
+blockSize: (2, 512, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 299.302 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (512, 2) - Esecuzione 3
+Timestamp: Wed 26 Jun 12:22:30 CEST 2024
+Dati copiati correttamente.
+threadSize: (512, 2, 1)
+blockSize: (2, 512, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 300.732 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (512, 2) - Esecuzione 4
+Timestamp: Wed 26 Jun 12:22:41 CEST 2024
+Dati copiati correttamente.
+threadSize: (512, 2, 1)
+blockSize: (2, 512, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 305.693 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (512, 2) - Esecuzione 5
+Timestamp: Wed 26 Jun 12:22:52 CEST 2024
+Dati copiati correttamente.
+threadSize: (512, 2, 1)
+blockSize: (2, 512, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 329.673 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (512, 2) - Esecuzione 6
+Timestamp: Wed 26 Jun 12:23:03 CEST 2024
+Dati copiati correttamente.
+threadSize: (512, 2, 1)
+blockSize: (2, 512, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 322.825 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (512, 2) - Esecuzione 7
+Timestamp: Wed 26 Jun 12:23:14 CEST 2024
+Dati copiati correttamente.
+threadSize: (512, 2, 1)
+blockSize: (2, 512, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 333.075 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (512, 2) - Esecuzione 8
+Timestamp: Wed 26 Jun 12:23:24 CEST 2024
+Dati copiati correttamente.
+threadSize: (512, 2, 1)
+blockSize: (2, 512, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 334.453 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (512, 2) - Esecuzione 9
+Timestamp: Wed 26 Jun 12:23:35 CEST 2024
+Dati copiati correttamente.
+threadSize: (512, 2, 1)
+blockSize: (2, 512, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 299.117 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (512, 2) - Esecuzione 10
+Timestamp: Wed 26 Jun 12:23:46 CEST 2024
+Dati copiati correttamente.
+threadSize: (512, 2, 1)
+blockSize: (2, 512, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 326.751 milliseconds.
+Matrices are equal.
+
+============================================
+
+Configurazione non valida: (512, 4). Saltando.
+Motivo: Numero totale di threads (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (512, 8). Saltando.
+Motivo: Numero totale di threads (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (512, 16). Saltando.
+Motivo: Numero totale di threads (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (512, 32). Saltando.
+Motivo: Numero totale di threads (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (512, 64). Saltando.
+Motivo: Numero totale di threads (32768) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (512, 128). Saltando.
+Motivo: Numero totale di threads (65536) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (512, 256). Saltando.
+Motivo: Numero totale di threads (131072) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (512, 512). Saltando.
+Motivo: Numero totale di threads (262144) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (512, 1024). Saltando.
+Motivo: Numero totale di threads (524288) supera il limite di 1024.
+
+============================================
+
+Configurazione valida: (1024, 1). Eseguendo 10 esecuzioni.
+Esecuzione con threadSize (1024, 1) - Esecuzione 1
+Timestamp: Wed 26 Jun 12:23:57 CEST 2024
+Dati copiati correttamente.
+threadSize: (1024, 1, 1)
+blockSize: (1, 1024, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 478.984 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1024, 1) - Esecuzione 2
+Timestamp: Wed 26 Jun 12:24:08 CEST 2024
+Dati copiati correttamente.
+threadSize: (1024, 1, 1)
+blockSize: (1, 1024, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 479.561 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1024, 1) - Esecuzione 3
+Timestamp: Wed 26 Jun 12:24:19 CEST 2024
+Dati copiati correttamente.
+threadSize: (1024, 1, 1)
+blockSize: (1, 1024, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 492.053 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1024, 1) - Esecuzione 4
+Timestamp: Wed 26 Jun 12:24:30 CEST 2024
+Dati copiati correttamente.
+threadSize: (1024, 1, 1)
+blockSize: (1, 1024, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 490.529 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1024, 1) - Esecuzione 5
+Timestamp: Wed 26 Jun 12:24:42 CEST 2024
+Dati copiati correttamente.
+threadSize: (1024, 1, 1)
+blockSize: (1, 1024, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 487.113 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1024, 1) - Esecuzione 6
+Timestamp: Wed 26 Jun 12:24:53 CEST 2024
+Dati copiati correttamente.
+threadSize: (1024, 1, 1)
+blockSize: (1, 1024, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 478.689 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1024, 1) - Esecuzione 7
+Timestamp: Wed 26 Jun 12:25:04 CEST 2024
+Dati copiati correttamente.
+threadSize: (1024, 1, 1)
+blockSize: (1, 1024, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 489.129 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1024, 1) - Esecuzione 8
+Timestamp: Wed 26 Jun 12:25:15 CEST 2024
+Dati copiati correttamente.
+threadSize: (1024, 1, 1)
+blockSize: (1, 1024, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 451.287 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1024, 1) - Esecuzione 9
+Timestamp: Wed 26 Jun 12:25:26 CEST 2024
+Dati copiati correttamente.
+threadSize: (1024, 1, 1)
+blockSize: (1, 1024, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 500.601 milliseconds.
+Matrices are equal.
+Esecuzione con threadSize (1024, 1) - Esecuzione 10
+Timestamp: Wed 26 Jun 12:25:37 CEST 2024
+Dati copiati correttamente.
+threadSize: (1024, 1, 1)
+blockSize: (1, 1024, 1)
+Total threads: 1048576
+Total threads for each block: 1024
+Total number of blocks (must be less or equal than 1024): 1024
+Total elements to calculate: 1048576
+Time elapsed: 474.817 milliseconds.
+Matrices are equal.
+
+============================================
+
+Configurazione non valida: (1024, 2). Saltando.
+Motivo: Numero totale di threads (2048) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1024, 4). Saltando.
+Motivo: Numero totale di threads (4096) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1024, 8). Saltando.
+Motivo: Numero totale di threads (8192) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1024, 16). Saltando.
+Motivo: Numero totale di threads (16384) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1024, 32). Saltando.
+Motivo: Numero totale di threads (32768) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1024, 64). Saltando.
+Motivo: Numero totale di threads (65536) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1024, 128). Saltando.
+Motivo: Numero totale di threads (131072) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1024, 256). Saltando.
+Motivo: Numero totale di threads (262144) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1024, 512). Saltando.
+Motivo: Numero totale di threads (524288) supera il limite di 1024.
+
+============================================
+
+Configurazione non valida: (1024, 1024). Saltando.
+Motivo: Numero totale di threads (1048576) supera il limite di 1024.

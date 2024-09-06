@@ -1,0 +1,76 @@
+
+============================================
+
+Testing tile_size=2 with matrix_size=2000
+
+Esecuzione con tile_size=2 - Matrix size 2000 - Esecuzione 1
+Timestamp: Wed 26 Jun 13:22:51 CEST 2024
+Dati copiati correttamente.
+blockSize: (2, 2, 1)
+Total number of blocks (must be less or equal than 1024): 4
+Time elapsed: 3703.53 milliseconds.
+
+Esecuzione con tile_size=2 - Matrix size 2000 - Esecuzione 2
+Timestamp: Wed 26 Jun 13:22:55 CEST 2024
+Dati copiati correttamente.
+blockSize: (2, 2, 1)
+Total number of blocks (must be less or equal than 1024): 4
+Time elapsed: 3514.97 milliseconds.
+
+Esecuzione con tile_size=2 - Matrix size 2000 - Esecuzione 3
+Timestamp: Wed 26 Jun 13:22:59 CEST 2024
+Dati copiati correttamente.
+blockSize: (2, 2, 1)
+Total number of blocks (must be less or equal than 1024): 4
+Time elapsed: 3520.66 milliseconds.
+
+Esecuzione con tile_size=2 - Matrix size 2000 - Esecuzione 4
+Timestamp: Wed 26 Jun 13:23:02 CEST 2024
+Dati copiati correttamente.
+blockSize: (2, 2, 1)
+Total number of blocks (must be less or equal than 1024): 4
+Time elapsed: 3523.56 milliseconds.
+
+Esecuzione con tile_size=2 - Matrix size 2000 - Esecuzione 5
+Timestamp: Wed 26 Jun 13:23:06 CEST 2024
+Dati copiati correttamente.
+blockSize: (2, 2, 1)
+Total number of blocks (must be less or equal than 1024): 4
+Time elapsed: 3524.68 milliseconds.
+
+Esecuzione con tile_size=2 - Matrix size 2000 - Esecuzione 6
+Timestamp: Wed 26 Jun 13:23:10 CEST 2024
+Dati copiati correttamente.
+blockSize: (2, 2, 1)
+Total number of blocks (must be less or equal than 1024): 4
+Time elapsed: 3530.66 milliseconds.
+
+Esecuzione con tile_size=2 - Matrix size 2000 - Esecuzione 7
+Timestamp: Wed 26 Jun 13:23:14 CEST 2024
+Dati copiati correttamente.
+blockSize: (2, 2, 1)
+Total number of blocks (must be less or equal than 1024): 4
+Time elapsed: 3531.91 milliseconds.
+
+Esecuzione con tile_size=2 - Matrix size 2000 - Esecuzione 8
+Timestamp: Wed 26 Jun 13:23:17 CEST 2024
+Dati copiati correttamente.
+blockSize: (2, 2, 1)
+Total number of blocks (must be less or equal than 1024): 4
+Time elapsed: 3538.73 milliseconds.
+
+Esecuzione con tile_size=2 - Matrix size 2000 - Esecuzione 9
+Timestamp: Wed 26 Jun 13:23:21 CEST 2024
+Dati copiati correttamente.
+blockSize: (2, 2, 1)
+Total number of blocks (must be less or equal than 1024): 4
+Time elapsed: 3532.12 milliseconds.
+
+Esecuzione con tile_size=2 - Matrix size 2000 - Esecuzione 10
+Timestamp: Wed 26 Jun 13:23:25 CEST 2024
+Dati copiati correttamente.
+blockSize: (2, 2, 1)
+Total number of blocks (must be less or equal than 1024): 4
+Time elapsed: 3536.86 milliseconds.
+
+Esecuzioni completate. I risultati sono stati salvati in risultati_use_shared_memory_2_2000.txt.

@@ -1,0 +1,46 @@
+
+============================================
+
+Testing tile_size=32 with matrix_size=3000
+
+Esecuzione con tile_size=32 - Matrix size 3000 - Esecuzione 1
+Timestamp: Wed 26 Jun 16:59:01 CEST 2024
+Time elapsed: 719.545 milliseconds.
+
+Esecuzione con tile_size=32 - Matrix size 3000 - Esecuzione 2
+Timestamp: Wed 26 Jun 16:59:02 CEST 2024
+Time elapsed: 443.146 milliseconds.
+
+Esecuzione con tile_size=32 - Matrix size 3000 - Esecuzione 3
+Timestamp: Wed 26 Jun 16:59:03 CEST 2024
+Time elapsed: 442.072 milliseconds.
+
+Esecuzione con tile_size=32 - Matrix size 3000 - Esecuzione 4
+Timestamp: Wed 26 Jun 16:59:03 CEST 2024
+Time elapsed: 450.027 milliseconds.
+
+Esecuzione con tile_size=32 - Matrix size 3000 - Esecuzione 5
+Timestamp: Wed 26 Jun 16:59:04 CEST 2024
+Time elapsed: 442.251 milliseconds.
+
+Esecuzione con tile_size=32 - Matrix size 3000 - Esecuzione 6
+Timestamp: Wed 26 Jun 16:59:05 CEST 2024
+Time elapsed: 444.011 milliseconds.
+
+Esecuzione con tile_size=32 - Matrix size 3000 - Esecuzione 7
+Timestamp: Wed 26 Jun 16:59:06 CEST 2024
+Time elapsed: 441.119 milliseconds.
+
+Esecuzione con tile_size=32 - Matrix size 3000 - Esecuzione 8
+Timestamp: Wed 26 Jun 16:59:07 CEST 2024
+Time elapsed: 451.951 milliseconds.
+
+Esecuzione con tile_size=32 - Matrix size 3000 - Esecuzione 9
+Timestamp: Wed 26 Jun 16:59:07 CEST 2024
+Time elapsed: 442.231 milliseconds.
+
+Esecuzione con tile_size=32 - Matrix size 3000 - Esecuzione 10
+Timestamp: Wed 26 Jun 16:59:08 CEST 2024
+Time elapsed: 447.156 milliseconds.
+
+Esecuzioni completate. I risultati sono stati salvati in risultati_use_shared_unified_memory_32_3000.txt.
