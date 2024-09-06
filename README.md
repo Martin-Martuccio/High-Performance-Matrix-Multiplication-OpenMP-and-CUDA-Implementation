@@ -66,7 +66,7 @@ This project includes source code for both OpenMP and CUDA implementations. Foll
 
 This project demonstrated that significant performance improvements can be achieved in matrix multiplication using parallel computing techniques such as OpenMP and CUDA. The results indicate that while OpenMP is particularly effective for CPU-bound tasks, CUDA excels in leveraging GPU resources for parallel computation, albeit with some limitations related to hardware constraints (in our case).
 
-For more details on the performance analysis, graphs, and implementation specifics, please refer to the full report available in this repository. Report : [Report Link]( ... )
+For more details on the performance analysis, graphs, and implementation specifics, please refer to the full report available in this repository. Report : [Report Link](HPC_Report.pdf)
 
 ## Authors
 - [Martin Martuccio](https://github.com/Martin-Martuccio) - Project Author
